@@ -7,4 +7,4 @@
   - Criação da logo do projeto.
   - Definição do esquema de cores.
  **Logo:**
- ![Texto Alternativo](public/imgs/logo.png)
+ ![Logo do projeto](public/imgs/logo.png)
