@@ -6,5 +6,5 @@
  **Mudanças:**
   - Criação da logo do projeto.
   - Definição do esquema de cores.
- **Logo:**
+ ### **Logo:**
  ![Logo do projeto](public/imgs/logo.png)
